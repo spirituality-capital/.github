@@ -1,1 +1,1 @@
-# spirituality-capital
+# .github
